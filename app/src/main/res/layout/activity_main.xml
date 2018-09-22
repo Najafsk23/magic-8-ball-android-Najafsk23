@@ -26,7 +26,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:padding="0dp"
-            android:text="Make Every Day Decisions Easier!"
+            android:text="Make Everyday Decisions Easier!"
             android:textColor="@android:color/white"
             android:textSize="23sp" />
     </LinearLayout>
